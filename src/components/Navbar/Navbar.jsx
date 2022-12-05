@@ -18,7 +18,7 @@ const Navbar = () => {
           <a href="#home">Home</a>
         </li>
         <li className="p__opensans">
-          <a href="about">About</a>
+          <a href="#about">About</a>
         </li>
         <li className="p__opensans">
           <a href="#menu">Menu</a>
@@ -60,7 +60,7 @@ const Navbar = () => {
                 </a>
               </li>
               <li className="p__opensans">
-                <a href="about" onClick={() => setToggleMenu(false)}>
+                <a href="#about" onClick={() => setToggleMenu(false)}>
                   About
                 </a>
               </li>
