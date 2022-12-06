@@ -37,7 +37,7 @@
     height: 910px;
 }
 .app__aboutus-content_about p,
-.app__aboutus-content_histor p {
+.app__aboutus-content_history p {
     margin: 2rem 0;
     color: var(--color-grey);
 }
